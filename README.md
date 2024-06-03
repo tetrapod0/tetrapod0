@@ -2,8 +2,10 @@
 
 ## Hi there 👋
 
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width=40/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width=40/>
+</p>
 
 <!--
 **tetrapod0/tetrapod0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

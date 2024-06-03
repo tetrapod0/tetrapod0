@@ -1,23 +1,13 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=F8E2CF&height=100&text=KangRo's%20Github&fontSize=30&fontAlign=80&rotate=7&fontAlignY=25)
 
-## Hi there 👋
-
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width=40/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width=40/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tetrapod0&show_icons=true" height=100>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetrapod0&layout=compact" height=100>
 </p>
 
-<!--
-**tetrapod0/tetrapod0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+

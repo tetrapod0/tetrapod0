@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=SLICE&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=60&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=F8E2CF&height=100&text=KangRo's%20Github&fontSize=30&fontAlign=80&rotate=7&fontAlignY=25)
 
 ## Hi there 👋
 

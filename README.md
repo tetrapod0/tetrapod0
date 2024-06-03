@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&height=180&text=test&fontSize=70&fontAlignY=30" />
 
-![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=tetrapod0)
+![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=tetrapod0&color=dark)
 
 ## Hi there 👋
 

@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&height=180&text=test&fontSize=70&fontAlignY=30" />
-
-![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=tetrapod0&color=dark)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=SLICE&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=60&descAlignY=44)
 
 ## Hi there 👋
 

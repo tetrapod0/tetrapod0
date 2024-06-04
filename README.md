@@ -26,3 +26,5 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tetrapod0)](https://velog.io/@tetrapod0)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=tetrapod0)](https://velog.io/@tetrapod0)
+
+<img src="https://velog-readme-stats.vercel.app/api/list?name=tetrapod0" style="filter: invert(100%);" />

@@ -12,7 +12,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tetrapod0)](https://velog.io/@tetrapod0) 
 
 <div style="filter: invert(100%);">
-  ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=tetrapod0)
+  <img src="https://velog-readme-stats.vercel.app/api/list?name=tetrapod0" />
 </div>
 
 ## ⛏️ Skills & Tools

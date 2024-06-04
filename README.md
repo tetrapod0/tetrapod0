@@ -4,7 +4,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=tetrapod0&show_icons=true&theme=vue-dark" height=150>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetrapod0&layout=compact" height=150>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetrapod0&layout=compact&theme=vue-dark" height=150>
 </p>
 
 ## 💬 Blog

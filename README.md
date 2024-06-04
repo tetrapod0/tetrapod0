@@ -9,12 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetrapod0&layout=compact&theme=vue-dark" height=150>
 </p>
 
-## 💬 Blog
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tetrapod0)](https://velog.io/@tetrapod0)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=tetrapod0)](https://velog.io/@tetrapod0)
-
 ## ⛏️ Skills & Tools
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -27,3 +21,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
+## 💬 Blog
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tetrapod0)](https://velog.io/@tetrapod0)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=tetrapod0)](https://velog.io/@tetrapod0)

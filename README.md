@@ -38,6 +38,6 @@
 
 [![](https://img.shields.io/badge/Velog-3DDC84?style=for-the-badge&logo=Blogger&logoColor=white)](https://velog.io/@tetrapod0)
 
-<img src="https://velog-readme-stats.vercel.app/api/list?name=tetrapod0" width=300>
+<img src="https://velog-readme-stats.vercel.app/api/list?name=tetrapod0" width=500>
 
 

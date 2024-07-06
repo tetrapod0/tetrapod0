@@ -38,8 +38,9 @@
 
 [![](https://img.shields.io/badge/Velog-3DDC84?style=for-the-badge&logo=Blogger&logoColor=white)](https://velog.io/@tetrapod0)
 
-<img src="https://velog-readme-stats.vercel.app/api/list?name=tetrapod0" width=500>
+[![](https://velog-readme-stats.vercel.app/api/list?name=tetrapod0)](https://velog.io/@tetrapod0)
 
-<svg xmlns="https://velog-readme-stats.vercel.app/api/list?name=tetrapod0" width=500>
+<!--img src="https://velog-readme-stats.vercel.app/api/list?name=tetrapod0" width=500-->
+
 
 

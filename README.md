@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=58C196&height=100&text=KangRo's%20Github&fontSize=30&fontAlign=80&rotate=7&fontAlignY=25)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=58C196&height=100&text=T's%20Github&fontSize=30&fontAlign=80&rotate=7&fontAlignY=25)
  
 <div align='left'>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftetrapod0&count_bg=%2358C196&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
